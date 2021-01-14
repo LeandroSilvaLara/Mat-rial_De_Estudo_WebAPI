@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S0xm7bubBP3IOtDfssxBj8K9+9aGci8BG+IOkHhjfIhTVb9pJl0gJjfeGrLh79gVMQoX4j55OvTir30YHXG6qQ==",
+  "dgSpecHash": "QG5fPdMmMAzFaTYA0yMCrV7emWi2YNS/rZH0u04rb9Q8Fv8wnrCbanXDsCMldIpFgyOtSEx9qxpKs18Ilx63KQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Nova pasta\\Alura.WebAPI\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj",
+  "projectFilePath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Alura\\Alura.WebAPI\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IST8mxU89Vt9y+XFfnWe7DBu9JCBG1yIoicyoxHGYdsQHdyP4ewRpxUwS8+PvstOvjI5G5+yTKEeRN6SH8+5VA==",
+  "dgSpecHash": "VCsC8RZe3Yd3sUpwW2XAAxfPxjegVvvKNGEBKsQ8mi3BaChyiUYG7CzaeBAA4dUrBNUd85Sr/bK8CAOevFAQYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Nova pasta\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+  "projectFilePath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Alura\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\K999-\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.0\\microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512",
     "C:\\Users\\K999-\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",

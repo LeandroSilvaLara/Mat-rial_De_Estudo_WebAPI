@@ -832,11 +832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\K999-\\Videos\\Asp.Net\\Nova pasta\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+      "projectUniqueName": "C:\\Users\\K999-\\Videos\\Asp.Net\\Alura\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
       "projectName": "Alura.WebAPI.Model",
-      "projectPath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Nova pasta\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+      "projectPath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Alura\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
       "packagesPath": "C:\\Users\\K999-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Nova pasta\\Alura.WebAPI\\Alura.WebAPI.Model\\obj\\",
+      "outputPath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Alura\\Alura.WebAPI\\Alura.WebAPI.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

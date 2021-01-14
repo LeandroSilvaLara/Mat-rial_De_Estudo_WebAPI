@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pAob4IX97E/JwTQz4S2gzNapRIEdp2EvxVlFpZQzpxFYg32ZMPQ7Vlyl9G/TNHG0OK8fTYASzlSjxo1Rs2LTYQ==",
+  "dgSpecHash": "CVP/foai7kSRZXZUv1/h67QEPOt65/ECk3gxLRlOJBUxT6rk0qlZdFkgfAQ+fktzLEnX2B/bMbfWGP5cg2kv1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Nova pasta\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+  "projectFilePath": "C:\\Users\\K999-\\Videos\\Asp.Net\\Alura\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\K999-\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\K999-\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
